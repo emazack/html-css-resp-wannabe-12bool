@@ -11,6 +11,14 @@
   margin: 0 auto;
 }
 
+/* centratura */
+
+/* DEBUG:  */
+.centratura{
+  text-align: center;
+}
+/* DEBUG:  */
+
 /*CLEAR*/
 
 .row::after{
